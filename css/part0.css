@@ -19,7 +19,7 @@ header{
     font-size: 50px;
     font-family:'Microsoft YaHei';
     font-weight: bolder;
-    color: white;
+    color: gold;
 }
 .title2{
     height: 150px;
@@ -28,18 +28,21 @@ header{
     font-size: 30px;
     font-family:'Microsoft YaHei';
     font-weight: bolder;
-    color: white;
+    color: gold;
 }
 .F1{
     width: 1024px;
     height: 200px;
+    background-image: url("../image/F1bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
     /*background: slateblue;*/
 }
 .F1 p{
     height: 200px;
     text-align: center;
     line-height: 200px;
-    font-size: 30px;
+    font-size: 40px;
     font-family:'Microsoft YaHei';
     font-weight: bolder;
     color: white;
